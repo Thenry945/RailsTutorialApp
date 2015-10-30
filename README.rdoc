@@ -1,1 +1,1 @@
-This is a bare bones app using the Michael Hartl tutorial. It shows some basic steps to start from scratch to a full production app. I made it about half way while adding my own connections. 
+This app has recently been updated. It now has a functional login and logout as well as a basic template for a user profile. Still to be done is updateing, viewing, and deleting users| account activation/password reset|microposts|following users
